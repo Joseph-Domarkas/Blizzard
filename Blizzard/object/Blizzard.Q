@@ -3,12 +3,20 @@
 
 Blizzard = Blizzard:: Blizzard___class___ ( )
 
-([](Blizzard) Arch Colibri = {„Arch Colibri“} |: Arch Colibri = Blizzard ∋ create (Arch_Colibri);):
+[](Blizzard) Arch Colibri {.name = „Arch Colibri“, .description = "„Blizzard“ instance"}.
+
+int
+main
 
 {
-
+	int argument___integer___,
+	char * argument___character___ [ ], char * environment___character___ [ ]
 }
-=
+
 {
+	[](Blizzard) Arch Colibri:: compile ("./object/Blizzard.Q"); Arch Colibri :: compile ("./object/Blizzard.Q").
 	
+	
+	
+	return 0;
 };.
