@@ -1,0 +1,14 @@
+
+(+): "<Blizzard/Blizzard.h>";.
+
+Blizzard = Blizzard:: Blizzard___class___ ( )
+
+([](Blizzard) Arch Colibri = {„Arch Colibri“} |: Arch Colibri = Blizzard ∋ create (Arch_Colibri);):
+
+{
+
+}
+=
+{
+	
+};.
